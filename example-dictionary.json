@@ -1,0 +1,23 @@
+[
+  {
+    "w": "Serendipity",
+    "d": "The occurrence of events by chance in a happy way",
+    "s": "Luck",
+    "diff": "medium",
+    "ex": "Finding that book was pure serendipity."
+  },
+  {
+    "w": "Ephemeral",
+    "d": "Lasting for a very short time",
+    "s": "Brief",
+    "diff": "hard",
+    "ex": "The beauty of cherry blossoms is ephemeral."
+  },
+  {
+    "w": "Resilience",
+    "d": "The capacity to recover quickly from difficulties",
+    "s": "Toughness",
+    "diff": "medium",
+    "ex": "Her resilience helped her overcome all obstacles."
+  }
+]
